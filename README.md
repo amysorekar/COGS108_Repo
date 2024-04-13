@@ -1,3 +1,3 @@
 # COGS108_Repo
 
-* For assignment 1*
+*For assignment 1*
